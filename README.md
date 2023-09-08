@@ -3,7 +3,7 @@
 
 My name is Diana Martins and I have found a new joy in life, coding!
 
-  One day, whilst thinking of creating my own pastry brand, I realized that I needed a website. So in order to make my own website, I went down the rabbit hole of coding! I then went into the Northcoders Software Developer bootcamp to learn more about becoming a full stack developer!
+  One day, whilst thinking of creating my own pastry brand, I realized that I needed a website. So in order to make my own website, I went down the rabbit hole of coding! I then went into the Northcoders Software Developer bootcamp to learn more about becoming a full stack developer! Then at the end of June 2023, I started working as a Junior Developer at Wren Kitchens.
 
 
   It has been an amazing experience and I have certainly enjoyed the challenge it presented!
