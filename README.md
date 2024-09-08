@@ -7,7 +7,7 @@ My name is Diana Martins and I have found a new joy in life, coding!
 
   It has been an amazing experience and I have certainly enjoyed the challenge it presented!
 
-  Then at the end of June 2023, I started working as a Junior Developer at Wren Kitchens.
+  Then at the end of June 2023, I started working as a Junior Developer at Wren Kitchens, where I've been working with Php, Symfony, along with Tailwind, Svelte, Javascript and Typecript. Been improving my knowledge of Postman and Docker as well.
 
 
 ### 🧵 Fun facts:
